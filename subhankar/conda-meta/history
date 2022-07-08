@@ -10,3 +10,7 @@
 +defaults/win-64::vs2015_runtime-14.27.29016-h5e58377_2
 +defaults/win-64::wincertstore-0.2-py37haa95532_2
 # update specs: ['python==3.7']
+==> 2022-07-08 22:11:50 <==
+# cmd: C:\Users\User\anaconda3\Scripts\conda-script.py install --force-reinstall pip
+# conda version: 4.10.3
+# update specs: ['pip']
